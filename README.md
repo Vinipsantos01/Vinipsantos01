@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do VInicius Santos 😁
+## Bem-vindo(a) ao perfil do Vinicius Santos 😁
 
  <div>
    <a href="https://github.com/vinipsantos01">
